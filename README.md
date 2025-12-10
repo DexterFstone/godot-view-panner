@@ -1,4 +1,13 @@
-# ViewPanner for GDScript
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img src="./icon.png" alt="icon" width="48" />
+    </td>
+    <td valign="middle">
+      <h1>ViewPanner for GDScript</h1>
+    </td>
+  </tr>
+</table>
 A utility class for handling view panning and zooming operations in 2D editors. This is a GDScript wrapper around the engine's native ViewPanner implementation.
 
 ## Features
